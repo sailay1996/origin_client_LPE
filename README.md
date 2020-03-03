@@ -1,5 +1,5 @@
 # origin_client_LPE
-Ea's Origin Client LPE
+Ea's Origin Client Local privilege escalation
 
 https://heynowyouseeme.blogspot.com/2020/02/local-privilege-escalation-in-eas.html
 <br><br>
